@@ -36,10 +36,6 @@ Ogni oggetto raccolto nel gioco possiede dei poteri speciali:
     Coltello: se un giocatore impiega il coltello mentre la sua sanità mentale è inferiore a 30, eliminerà casualmente un altro giocatore (funzione "uccide_casualmente()"). 
     Adrenalina: impiegando l'adrenalina, il giocatore avrà la possibilità di avanzare ulteriormente nel gioco, chiamando nuovamente la funzione "avanza()". 
 
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 SECONDA PARTE DEL GIOCO(): 
 
 La seconda parte del gioco è stata pensata per aumentare il piacere dell'utente (in fase di sviluppo). Si prega di notare che, se si desidera ascoltare musica  mentre si gioca a "Caccia ai fantasmi", è possibile rimuovere i commenti nelle righe di codice relative a "void_play_music" e nel file "gamelib.c" (extern void play_music) nel file "gamelib.c" rimuovere il commento che rende invisibile "play_music" nel main.c. 
