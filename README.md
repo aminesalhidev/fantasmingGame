@@ -1,7 +1,3 @@
-Nome del progetto : fantasming
-junion Programmatore: amine salhi.
-matricola :355106;
-
 Breve descrizione del progetto per i giocatori che Giocheranno:
 
 Un gruppo di esperti investigatori del paranormale viene incaricato di raccogliere prove riguardanti presenze sovrannaturali che si manifestano in luoghi infestati. Il loro obiettivo è trovare e documentare tre prove specifiche prima che il fantasma possa causare loro la loro morte. riusceranno a recuperare e portare al caravan tutte le prove richieste?: prova EMF , prova videocamera  e prova spirit box.
@@ -56,7 +52,7 @@ Attenzione: Il progetto ufficiale viene consegnato senza includere le parti sopr
 
 Buon divertimento! 
 
-Sono lieto di presentare il progetto "Fantasming", creato da Amine Salhi (email:  amine.salhi@iomarsciano.it ). 
+
 
 
 
